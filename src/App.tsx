@@ -29,7 +29,7 @@ export default function App() {
       color: "from-purple-500 to-pink-500",
     },
     {
-      title: "AI Design Tool",
+      title: "AI Design Tools",
       role: "Product Designer",
       year: "2024",
       color: "from-blue-500 to-cyan-500",
